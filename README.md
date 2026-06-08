@@ -1,5 +1,9 @@
 # Enterprise Inventory & Order Management System
 
+## Live Demo
+
+🔗 https://enterprise-inventory-order-management-tvld.onrender.com
+
 A full-stack Enterprise Inventory & Order Management System developed using Java, Spring Boot, Hibernate, JSP, JSTL, and MySQL.
 
 This project simulates a real-world business management platform with secure authentication, product management, order tracking, stock monitoring, admin reporting, and invoice generation.
